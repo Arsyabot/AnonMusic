@@ -57,7 +57,7 @@ START_BUTTONS = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                        "🥺 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ 🥺", url="https://t.me/DeviLal_Robot?startgroup=true")
+                        "🥺 ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ​ 🥺", url="https://t.me/musikalbybot?startgroup=true")
         ],
         [
             InlineKeyboardButton("🧐 ʜᴇʟᴩ 🧐", callback_data=" help_cb"),
